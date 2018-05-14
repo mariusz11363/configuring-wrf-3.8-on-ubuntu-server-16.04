@@ -494,7 +494,7 @@ The WRF modeling system is able to create idealized simulations, though most use
 
 ```console
 $ cd {path_to_dir}/Build_WRF
-$ wget http://www2.mmm.ucar.edu/wrf/src/wps_files/geog_complete.tar.bz2
+$ wget http://www2.mmm.ucar.edu/wrf/src/wps_files/geog_complete.tar.gz
 $ tar -xvf geog_complete.tar.bz2
 $ mv geog WPS_GEOG
 ```
